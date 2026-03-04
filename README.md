@@ -1,8 +1,26 @@
-# Portfolio
+# David Bickram — Engineering Portfolio
+Embedded Systems • AI • IoT
 
-Full portfolio of technical and non-technical projects I have undertaken.
+## Portfolio Overview
 
 This repository contains a curated collection of my work across embedded systems, artificial intelligence, research, leadership, creative design, and entrepreneurship. Each folder includes a dedicated README with detailed explanations and outcomes.
+
+
+| Category | Description |
+|--------|--------|
+| [Projects](Projects) | Engineering and technical builds including embedded systems and IoT work |
+| [Research](Research) | Academic research projects and lab contributions |
+| [Leadership](Leadership) | Organizational leadership initiatives, presentations, and event planning materials |
+| [Startup – CustomEyes](Startup%20-%20CustomEyes) | Early-stage venture exploring AI-powered custom eyewear systems |
+| [Creative Designs](Creative%20Designs) | Visual design work including flyers, AI-generated graphics, and RA programming boards |
+| [Resume](Resume) | Current professional resume |
+
+
+---
+
+## About Me
+
+I am a Computer Engineering student at the University of Florida with interests in embedded systems, AI, and intelligent hardware systems. My work spans research, engineering projects, and leadership initiatives focused on building systems that improve everyday life.
 
 ---
 
@@ -11,7 +29,7 @@ This repository contains a curated collection of my work across embedded systems
 ### Creative Designs
 Design work including digital media, event materials, and visual communication projects.
 
-- **AI_Designs** – AI-assisted creative graphics and design explorations.
+- **AI Designs** – AI-assisted creative graphics and design explorations.
 - **Resident Assistant** – Community engagement boards and residential programming designs.
 
 ---
